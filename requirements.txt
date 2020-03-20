@@ -9,6 +9,10 @@ MarkupSafe==1.1.1
 pkg-resources==0.0.0
 PyJWT==1.7.1
 pytz==2019.3
+<<<<<<< HEAD
+=======
+pyxdg==0.26
+>>>>>>> d1d3ea66ffe59997636d8568420423c08e881ab1
 requests==2.23.0
 six==1.14.0
 twilio==6.37.0
